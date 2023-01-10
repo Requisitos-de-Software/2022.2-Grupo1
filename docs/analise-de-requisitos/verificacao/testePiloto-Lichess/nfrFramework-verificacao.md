@@ -27,7 +27,7 @@
 | ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
 | 12 | Possui diagramas dos softgoals? | ✔ |  |
-| 13 |  | ✔ |  |
+| 13 | Os Softgoals liga a um requisito não funciona? | ✔ |  |
 | 14 |Possui bibliografia? | ✔ |  |
 | 15 | Os diagramas criados possui legenda? | ✔ |  |
 | 16 | O componente "Fronteira" está presente na versão final? | ✔ |  |
