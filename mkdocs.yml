@@ -66,6 +66,8 @@ nav:
               - História de Usuário: analise-de-requisitos/verificacao/testePiloto-Lichess/historia-usuario.md
               - Backlog: analise-de-requisitos/verificacao/testePiloto-Lichess/backlogs-verificacao.md
               - NFR Framework: analise-de-requisitos/verificacao/testePiloto-Lichess/nfrFramework-verificacao.md
+      - Validação:
+          - Prototipagem: analise-de-requisitos/validacao/prototipacao.md
 
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
