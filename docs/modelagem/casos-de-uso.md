@@ -4,7 +4,7 @@ Um caso de uso é uma descrição das maneiras pelas quais um usuário interage 
 
 ## Metodologia
 
-Para elaborar dos casos de uso foram verificados e analisados os documentos de elicitação de requisitos. A partir disso, foram feitos os casos de uso utilizando a ferramenta Lucidchart.
+Para elaborar dos casos de uso foram verificados e analisados os documentos de elicitação de requisitos, e utilizado personas para a verificação e validação dos casos de uso. A partir disso, foram feitos os casos de uso utilizando a ferramenta Lucidchart.
 
 ## Casos de Uso & Especificação
 
@@ -158,5 +158,6 @@ Quinto Caso de Uso(<i>Figura 5</i>) que representa o subconjunto **Conquistas**,
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 08/12/2022 | Início da página e casos de uso | Philipe de Sousa | -- |
-| 1.1 | 08/12/2022 | Casos de uso correção | Philipe de Sousa | -- |  
+| 1.0 | 08/12/2022 | Início da página e casos de uso | Philipe de Sousa | Wildemberg Sales |
+| 1.1 | 08/12/2022 | Casos de uso correção | Philipe de Sousa | Wildemberg Sales |  
+| 1.2 | 15/01/2023 | Adicionando tipo de usuário que validou os casos de uso | Wildemberg Sales | Philipe de Sousa |  
