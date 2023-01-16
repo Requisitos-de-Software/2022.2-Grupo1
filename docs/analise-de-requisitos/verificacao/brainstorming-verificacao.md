@@ -4,7 +4,7 @@
 <p align="justify">Este documento tem como objetivo verificar se o artefato de <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/" target="_blank">Brainstorm</a> segue os critérios pré-estabelecidos pela disciplina de Requisitos de Software, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes à somente esse artefato.</p>
 
 ## Verificações gerais
-<p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
+<p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo. As verificações foram retiradas dos questionários de verificação de artefatos feito pelo professor André Barros e que estão listados dentro do plano de ensino da matéria.</p>
 
 
 | ID | Verificação | Resposta | Foi corrigido? |
@@ -24,7 +24,7 @@
 <figcaption align="center">Tabela 1: Critérios gerais da página. (Fonte: Autores, 2022)</figcaption>
 
 ## Verificações específicas
-<p align="justify">A <i>Tabela 2</i> a seguir descreve os critérios específicos do artefato de Observação e informa se está de acordo com o esperado.</p>
+<p align="justify">A <i>Tabela 2</i> a seguir descreve os critérios específicos do artefato de Observação e informa se está de acordo com o esperado. As verificações foram retiradas dos questionários de verificação de artefatos feito pelo professor André Barros e que estão listados dentro do plano de ensino da matéria, e dos conhecimento adquiridos no livro IHC: Barbosa e Siva.</p>
 
 | ID | Verificação | Resposta | Foi corrigido? |
 | :--: | :-------: | :------: | :------------: |
@@ -45,4 +45,4 @@
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 03/01/2023 | Criação e desenvolvimento da verificação | Philipe | Hellen |
+| 1.0 | 03/01/2023 | Criação e desenvolvimento da verificação | Wildemberg Sales | Hellen |
