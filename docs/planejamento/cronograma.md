@@ -80,12 +80,12 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 | Verificação - Personas | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
 | Verificação - Storytelling | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
 | Verificação - Observação | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
-| Verificação - Brainstorming | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
+| Verificação - Brainstorming | Philipe de Sousa, Wildemberg Sales | 07/01 | Hellen Fernanda |  08/01   | - | 15/01/2023 |
 | Verificação - In or Out | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
 | Verificação - Three Level-Scale | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | - | - |
 | Verificação - Cenários | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | - | - |
-| Verificação - Léxicos | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | - | - |
-| Verificação - Casos de Uso | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | - | - |
+| Verificação - Léxicos | Wildemberg Sales, Philipe de Sousa | 07/01 | Caio Vitor |  08/01   | - | 15/01/2023 |
+| Verificação - Casos de Uso | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | - | 15/01/2023 |
 | Verificação - Especificação Suplementar | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | - | - |
 | Verificação - Histórias de Usuário | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | - | - |
 | Verificação - Backlogs | João Pedro | 07/01 | Lucas Lopes |  08/01   | - | - |
@@ -114,6 +114,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 |  1.2   | 23/11/2022 | Inclusão das outras etapas | Lucas Lopes | Philipe de Sousa |
 |  1.3   | 24/11/2022 | Ajuste dos números de versão e adicionado tarefa a tabela 2 | Wildemberg Sales | Hellen Fernanda |
 |  1.4   | 26/11/2022 | Ajustando datas de entrega e revisão da etapa 2 | Wildemberg Sales | Hellen Fernanda |
+|  1.5   | 26/11/2022 | Ajustando avaliadores | Wildemberg Sales | Hellen Fernanda |
 
 ## Referências
 
