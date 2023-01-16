@@ -51,6 +51,8 @@ nav:
           - Observação: analise-de-requisitos/verificacao/observacao-verificacao.md
           - Brainstorm: analise-de-requisitos/verificacao/brainstorming-verificacao.md
           - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
+          - Cenarios: analise-de-requisitos/verificacao/cenarios-verificacao.md
+          - Tree Level Scale: analise-de-requisitos/verificacao/treelevelscale-verificacao.md
           - Teste Piloto - Lichess:
               - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
               - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
