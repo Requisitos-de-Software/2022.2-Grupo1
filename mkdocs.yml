@@ -68,6 +68,7 @@ nav:
               - NFR Framework: analise-de-requisitos/verificacao/testePiloto-Lichess/nfrFramework-verificacao.md
       - Validação:
           - Prototipagem: analise-de-requisitos/validacao/prototipacao.md
+          - Comprovação Informal: analise-de-requisitos/validacao/comprovacao-informal.md
 
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
