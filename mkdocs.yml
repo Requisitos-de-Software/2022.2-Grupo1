@@ -54,6 +54,8 @@ nav:
           - Casos de Uso: analise-de-requisitos/verificacao/casos-de-uso-verificacao.md
           - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
           - Cenarios: analise-de-requisitos/verificacao/cenarios-verificacao.md
+          - Especificação Suplementar: analise-de-requisitos/verificacao/especificacao-suplementar.md
+          - História de Usuários: analise-de-requisitos/verificacao/historia-usuario.md
           - Tree Level Scale: analise-de-requisitos/verificacao/treelevelscale-verificacao.md
           - Teste Piloto - Lichess:
               - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
