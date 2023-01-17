@@ -60,7 +60,7 @@ Para composição do Product Backlog foi feita a divisão em 3 partes:
 
 ## Histórico de versão
 
-| Versão |    Data    |                          Descrição                          |               Autor                |  Revisor   |
+| Versões |    Data    |                          Descrição                          |               Autor                |  Revisor   |
 | :----: | :--------: | :---------------------------------------------------------: | :--------------------------------: | :--------: |
 |  1.0   | 29/12/2022 |                Iniciado documento de Backlog                | Wildemberg Sales, Hellen Fernandes | Caio Vitor |
 |  1.1   | 29/12/2022 | Definido metodologia a ser utilizada, e adicionado o rastro | Wildemberg Sales, Hellen Fernandes | Caio Vitor |
