@@ -36,8 +36,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-01-conta">FT01</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us01-efetuar-logincadastro-com-google">US01</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us01-efetuar-logincadastro-com-google">US01</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF01" width="300"> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | <img src="../assets/RF1.jpeg" alt="Implementação do RF01" width="300"> |
 
 <figcaption align="center">Tabela 2: Pós-rastreabilidade do RF01. (Fonte: Autores, 2022)</figcaption>
 
@@ -49,8 +49,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-01-conta">FT02</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us08-sair-da-conta">US08</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us08-sair-da-conta">US08</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF02" width="300"> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | <img src="../assets/RF2.jpeg" alt="Implementação do RF02" width="300"> |
 
 <figcaption align="center">Tabela 3: Pós-rastreabilidade do RF02. (Fonte: Autores, 2022)</figcaption>
 
@@ -62,8 +62,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-01-conta">FT02</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us09-excluir-conta">US09</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us09-excluir-conta">US09</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF03" width="300"> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | <img src="../assets/RF3.jpeg" alt="Implementação do RF03" width="300"> |
 
 <figcaption align="center">Tabela 4: Pós-rastreabilidade do RF03. (Fonte: Autores, 2022)</figcaption>
 
@@ -75,8 +75,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-01-conta">FT03</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us17-alterar-dados-do-usuario">US17</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us17-alterar-dados-do-usuario">US17</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF04" width="300"> |
+| **Implementação** | Requisito não implementado. |
+| **Demonstração** |  |
 
 <figcaption align="center">Tabela 5: Pós-rastreabilidade do RF04. (Fonte: Autores, 2022)</figcaption>
 
@@ -88,8 +88,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-02-perfil">FT04</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us03-acessar-forum-de-suporte-do-app">US03</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us03-acessar-forum-de-suporte-do-app">US03</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF05" width="300"> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | <img src="../assets/RF5.jpeg" alt="Implementação do RF05" width="300"> |
 
 <figcaption align="center">Tabela 6: Pós-rastreabilidade do RF05. (Fonte: Autores, 2022)</figcaption>
 
@@ -101,8 +101,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-02-perfil">FT04</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us04-ativar-eou-desativar-recebimento-de-notificacoes">US04</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us04-ativar-eou-desativar-recebimento-de-notificacoes">US04</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF06" width="300"> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | <img src="../assets/RF6.jpeg" alt="Implementação do RF06" width="300"> |
 
 <figcaption align="center">Tabela 7: Pós-rastreabilidade do RF06. (Fonte: Autores, 2022)</figcaption>
 
@@ -114,8 +114,8 @@
 | **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-02-perfil">FT04</a> |
 | **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us07-configurar-idioma">US07</a> |
 | **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us07-configurar-idioma">US07</a> |
-| **Implementação** | Requisito Implementado. |
-| **Demonstração** | <img src="" alt="Implementação do RF07" width="300"> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | <img src="../assets/RF7.jpeg" alt="Implementação do RF07" width="300"> |
 
 <figcaption align="center">Tabela 8: Pós-rastreabilidade do RF07. (Fonte: Autores, 2022)</figcaption>
 
@@ -128,3 +128,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 19/01/2023 | Inicialização da página e adição de requisitos | Lucas Lopes | João Pedro |
+| 1.1 | 20/01/2023 | Adição das imagens dos requisitos | Lucas Lopes | João Pedro |
