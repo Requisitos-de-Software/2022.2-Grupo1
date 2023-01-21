@@ -119,6 +119,84 @@
 
 <figcaption align="center">Tabela 8: Pós-rastreabilidade do RF07. (Fonte: Autores, 2022)</figcaption>
 
+RF08 | Deve ser possível navegar pelos cursos no menu de navegação. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-04-conteudo">EP04</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-04-conteudo">FT08</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us02-navegar-pelos-cursos-no-menu-de-navegacao">US02</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us02-navegar-pelos-cursos-no-menu-de-navegacao">US02</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us2_f.gif)|
+
+<figcaption align="center">Tabela 9 Pós-rastreabilidade do RF08. (Fonte: Autores, 2022)</figcaption>
+
+RF09 | Deve ser possível enviar feedback ao app. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT05</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us05-enviar-feedback-ao-app">US05</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us05-enviar-feedback-ao-app">US05</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us5_f.gif)|
+
+<figcaption align="center">Tabela 10 Pós-rastreabilidade do RF09. (Fonte: Autores, 2022)</figcaption>
+
+RF10 | Deve ser possível Relatar bug do app. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT05</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us06-relatar-bug-do-app">US06</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us06-relatar-bug-do-app">US06</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us6_f.gif)|
+
+<figcaption align="center">Tabela 11 Pós-rastreabilidade do RF10. (Fonte: Autores, 2022)</figcaption>
+
+RF11 | Deve ser possível escolher a atividade que deseja fazer. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-04-conteudo">EP04</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-04-conteudo">FT08</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us10-escolher-a-atividade-que-deseja-fazer">US10</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us10-escolher-a-atividade-que-deseja-fazer">US10</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us10_f.gif)|
+
+<figcaption align="center">Tabela 12 Pós-rastreabilidade do RF11. (Fonte: Autores, 2022)</figcaption>
+
+
+RF12 | Deve ser possível ver os erros cometidos e tentar refazer. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT06</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us11-ver-os-erros-cometidos-e-tentar-refazer">US11</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us11-ver-os-erros-cometidos-e-tentar-refazer">US11</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us11_f.gif)|
+
+<figcaption align="center">Tabela 13 Pós-rastreabilidade do RF12. (Fonte: Autores, 2022)</figcaption>
+
+RF13 | Deve ser possível escolher lições rápidas. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT06</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us12-escolher-licoes-rapidas">US12</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us12-escolher-licoes-rapidas">US12</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us12_f.gif)|
+
+<figcaption align="center">Tabela 14 Pós-rastreabilidade do RF13. (Fonte: Autores, 2022)</figcaption>
+
+RF14 | Deve ser possível criar snippet de código em Playground de Código. |
+| ---- | ---- |
+| **Épico** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a> |
+| **Feature** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT07</a> |
+| **US** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us21-criar-snippet-de-codigo-em-playground-de-codigo">US21</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us21-criar-snippet-de-codigo-em-playground-de-codigo">US21</a> |
+| **Implementação** | Requisito implementado. |
+| **Demonstração** | ![Alt Text](./assets/us21_f.gif)|
+
+<figcaption align="center">Tabela 15 Pós-rastreabilidade do RF14. (Fonte: Autores, 2022)</figcaption>
+
 ## Requisitos Não-Funcionais
 <p align="justify">As tabelas a seguir contém a rastreabilidade dos requisitos não funcionais elicitados.</p>
 
@@ -129,3 +207,4 @@
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 19/01/2023 | Inicialização da página e adição de requisitos | Lucas Lopes | João Pedro |
 | 1.1 | 20/01/2023 | Adição das imagens dos requisitos | Lucas Lopes | João Pedro |
+| 1.2 | 21/01/2023 | Adição de mais requisitos e gifs| Philipe  | João Pedro |
