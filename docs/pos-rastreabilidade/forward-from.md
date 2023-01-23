@@ -231,6 +231,61 @@
 
 <figcaption align="center">Tabela 18 Pós-rastreabilidade do RF17. (Fonte: Autores, 2022)</figcaption>
 
+| RF18                       | Deve ser possível ver o código sendo executado.                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Épico**                  | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a>                           |
+| **Feature**                | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT06</a>                           |
+| **US**                     | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us13-ver-o-codigo-sendo-executado">US13</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us13-ver-o-codigo-sendo-executado">US13</a> |
+| **Implementação**          | Requisito implementado.                                                                                                                                        |
+| **Demonstração**           | ![Alt Text](./assets/us13.png)                                                                                                                                 |
+
+<figcaption align="center">Tabela 19 Pós-rastreabilidade do RF18. (Fonte: Autores, 2022)</figcaption>
+
+| RF19                       | Deve ser possível compartilhar uma atividade.                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Épico**                  | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a>                         |
+| **Feature**                | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT07</a>                         |
+| **US**                     | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade">US16</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade">US16</a> |
+| **Implementação**          | Requisito não implementado.                                                                                                                                  |
+| **Demonstração**           |                                                                                                                                                              |
+
+<figcaption align="center">Tabela 20 Pós-rastreabilidade do RF19. (Fonte: Autores, 2022)</figcaption>
+
+| RF20                       | Deve ser possível convidar amigos para poder interarir com eles.                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Épico**                  | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a>              |
+| **Feature**                | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT07</a>              |
+| **US**                     | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us18-convidar-amigos">US18</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us18-convidar-amigos">US18</a> |
+| **Implementação**          | Requisito não implementado.                                                                                                                       |
+| **Demonstração**           |                                                                                                                                                   |
+
+<figcaption align="center">Tabela 21 Pós-rastreabilidade do RF20. (Fonte: Autores, 2022)</figcaption>
+
+| RF21                       | Deve ser possível fazer um teste de nivelamento.                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Épico**                  | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a>                   |
+| **Feature**                | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT06</a>                   |
+| **US**                     | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us20-teste-de-nivelamento">US20</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us20-teste-de-nivelamento">US20</a> |
+| **Implementação**          | Requisito não implementado.                                                                                                                            |
+| **Demonstração**           |                                                                                                                                                        |
+
+<figcaption align="center">Tabela 22 Pós-rastreabilidade do RF21. (Fonte: Autores, 2022)</figcaption>
+
+| RF22                       | Deve ser possível criar comunidade para interagir com amigos.                                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Épico**                  | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">EP03</a>                   |
+| **Feature**                | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/backlog/#epico-03-gamificacao">FT07</a>                   |
+| **US**                     | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us22-criar-uma-comunidade">US22</a> |
+| **Critérios de Aceitação** | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us22-criar-uma-comunidade">US22</a> |
+| **Implementação**          | Requisito não implementado.                                                                                                                            |
+| **Demonstração**           |                                                                                                                                                        |
+
+<figcaption align="center">Tabela 23 Pós-rastreabilidade do RF22. (Fonte: Autores, 2022)</figcaption>
+
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
