@@ -38,16 +38,20 @@
 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  NOME  | NOME  | DD/MM/AAAA | HH:MM | LOCAL |
+| Gabriel Holsback | Wildemberg Sales  | 23/01/2023 | 14:30 | Universidade de Brasília |
 <figcaption align='center'> Tabela 1: Dados da avaliação 1 (Fonte: Autores, 2022)</figcaption>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITgIr_lkLqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Avaliação 2
 <p align="justify">A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.</p>
 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  NOME  | NOME  | DD/MM/AAAA | HH:MM | LOCAL |
+|  Caio Vieira  | Wildemberg Sales  | 23/01/2023 | 14:50 | Universidade de Brasília |
 <figcaption align='center'> Tabela 2: Dados da avaliação 2 (Fonte: Autores, 2022)</figcaption>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yh5m8iZHO54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Avaliação 3
 <p align="justify">A <i>Tabela 3</i> a seguir informa os dados da terceira avaliação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.</p>
@@ -72,3 +76,4 @@
 | 1.1 | 16/01/2023 | Subindo protótipo de alta fidelidade no figma | Wildemberg Sales, Hellen Fernanda, Lucas Lopes | João Pedro |
 | 1.2 | 16/01/2023 | Criado conclusão do artefato | Wildemberg Sales, Hellen Fernanda, Lucas Lopes | João Pedro |
 | 1.3 | 23/01/2023 | Documentação da validação | Lucas Lopes, Wildemberg Sales, Hellen Fernanda | João Pedro |
+| 1.4 | 23/01/2023 | Subindo entrevista 1 e 2 | Wildemberg Sales, Lucas Lopes, Hellen Fernanda | João Pedro | 
