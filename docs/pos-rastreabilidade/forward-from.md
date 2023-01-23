@@ -12,10 +12,9 @@
 **Legenda:**
 
 - RF: Requisito Funcional
-- RNF: Requisito Não-Funcional
 - EP: Épico
 - FT: Feature
-- US: Histório de Usuário
+- US: História de Usuário
 
 | RFXX                       | <i>Descrição do requisito.</i>                                                   |
 | -------------------------- | -------------------------------------------------------------------------------- |
@@ -29,8 +28,7 @@
 <figcaption align="center">Tabela 1: Modelo padrão da pós-rastreabilidade. (Fonte: Autores, 2022)</figcaption>
 
 ## Requisitos
-
-## <p align="justify">As tabelas a seguir contém a rastreabilidade dos requisitos funcionais elicitados.</p>
+<p align="justify">As tabelas a seguir contém a rastreabilidade dos requisitos funcionais elicitados.</p>
 
 | RF01                       | Deve ser possível efetuar login/cadastro com Google.                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
