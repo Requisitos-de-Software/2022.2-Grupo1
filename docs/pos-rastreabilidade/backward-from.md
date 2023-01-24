@@ -165,47 +165,7 @@ Casos de uso: https://requisitos-de-software.github.io/2022.2-Grasshopper/modela
 
 ## Elos não funcionais
 
-### ENF01
-* Categoria: Desenvolvimento
-* Elos: 
-* Agregação:
-        * Agregação: [C10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c10-escolher-a-atividade-que-deseja-fazer) agrega [ST05](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) 
 
-### ENF02
-
-* Categoria: Desenvolvimento 
-* Elos:   
-        * Agregação: [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
-
-### ENF03
-
-* Categoria: Desenvolvimento 
-* Elos:   
-        * Agregação: [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
-
-### ENF04
-
-* Categoria: Desenvolvimento 
-* Elos:   
-        * Agregação: [US16](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
-
-### ENF05
-
-* Categoria: Desenvolvimento 
-* Elos:   
-        * Agregação: [US16](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
-
-### ENF06
-
-* Categoria: Desenvolvimento 
-* Elos:   
-        * Agregação: [ST15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) agrega [OBS34](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/) <br>
-
-### ENF07
-
-* Categoria: Desenvolvimento 
-* Elos:   
-        * Agregação: [ST15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) agrega [ST13](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/#requisitos-nao-funcionais) <br>
 ## Referências
 > Slide 26, Requisitos, professora Milene e Maurício Serrano
 
