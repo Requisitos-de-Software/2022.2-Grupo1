@@ -159,11 +159,11 @@ Casos de uso: https://requisitos-de-software.github.io/2022.2-Grasshopper/modela
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [RF12](docs/elicitacao/introspeccao.md) agrega [UC05](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/casos-de-uso/) <br>
- 
+        * Agregação: [BS18](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/) agrega [OBS26](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/#requisitos-funcionais) <br>
 
 
 ## Elos não funcionais
+
 
 
 ## Referências
