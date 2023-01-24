@@ -105,106 +105,102 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
 
 <figcaption align="center">Tabela 2: Requisitos não funcionais (Fonte: Autores, 2022)</figcaption>
 
-
-Historias de usuario: docs/modelagem/modelagemAgil/historias-de-usuario.md
-Casos de uso: https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/casos-de-uso/
 ## Elos Funcionais
 ### EF01
 
 * Categoria: Desenvolvimento
 * Elos:  
-        * Agregação: [RF02](docs/elicitacao/introspeccao.md) agrega [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/)
+    * Agregação: [RF02](docs/elicitacao/introspeccao.md) agrega [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/)
 
 ### EF02
 
 * Categoria: Desenvolvimento
 * Elos:  
-        * Agregação: [RF03](docs/elicitacao/introspeccao.md) agrega [C02](docs/elicitacao/brainstorm.md) <br>
-        * Agregação: [RF03](docs/elicitacao/introspeccao.md) agrega [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
+    * Agregação: [RF03](docs/elicitacao/introspeccao.md) agrega [C02](docs/elicitacao/brainstorm.md) <br>
+    * Agregação: [RF03](docs/elicitacao/introspeccao.md) agrega [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
 
 ### EF03
 
 * Categoria: Desenvolvimento
 * Elos:   
-        * Agregação: [RF05](docs/elicitacao/introspeccao.md) agrega  [US01](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
-        * Agregação: [RF05](docs/elicitacao/introspeccao.md) agrega [UC01](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/casos-de-uso/)
+    * Agregação: [RF05](docs/elicitacao/introspeccao.md) agrega  [US01](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
+    * Agregação: [RF05](docs/elicitacao/introspeccao.md) agrega [UC01](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/casos-de-uso/)
 
 ### EF04
 
 * Categoria: Desenvolvimento
 * Elos:   
-        * Agregação: [RF06](docs/elicitacao/introspeccao.md) agrega [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
+    * Agregação: [RF06](docs/elicitacao/introspeccao.md) agrega [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
 
 
 ### EF05
 
 * Categoria: Desenvolvimento
 * Elos:   
-        * Agregação: [RF07](docs/elicitacao/brainstorm.md) agrega [US20](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/)
+    * Agregação: [RF07](docs/elicitacao/brainstorm.md) agrega [US20](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/)
 
 
 ### EF06
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [RF8](docs/elicitacao/introspeccao.md) agrega [C15](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/) <br>
+    * Agregação: [RF8](docs/elicitacao/introspeccao.md) agrega [C15](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/) <br>
 
 ### EF07
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [RF09](docs/elicitacao/introspeccao.md) agrega [US19](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
+    * Agregação: [RF09](docs/elicitacao/introspeccao.md) agrega [US19](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) <br>
 
 ### EF08
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [BS18](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/) agrega [OBS26](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/#requisitos-funcionais) <br>
+    * Agregação: [BS18](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/) agrega [OBS26](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/#requisitos-funcionais) <br>
 
 
 ## Elos não funcionais
 
 ### ENF01
 * Categoria: Desenvolvimento
-* Elos: 
-* Agregação:
-        * Agregação: [C10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c10-escolher-a-atividade-que-deseja-fazer) agrega [ST05](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) 
+* Elos:
+    * Agregação: [C10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c10-escolher-a-atividade-que-deseja-fazer) agrega [ST05](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) 
 
 ### ENF02
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
+    * Agregação: [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
 
 ### ENF03
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
+    * Agregação: [US10](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
 
 ### ENF04
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [US16](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
+    * Agregação: [US16](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
 
 ### ENF05
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [US16](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
+    * Agregação: [US16](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/modelagemAgil/historias-de-usuario/#us16-compartilhar-uma-atividade) agrega [C12](https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/cenarios/#c12-escolher-licoes-rapidas) <br>
 
 ### ENF06
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [ST15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) agrega [OBS34](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/) <br>
+    * Agregação: [ST15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) agrega [OBS34](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/) <br>
 
 ### ENF07
 
 * Categoria: Desenvolvimento 
 * Elos:   
-        * Agregação: [ST15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) agrega [ST13](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/#requisitos-nao-funcionais) <br>
+    * Agregação: [ST15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/) agrega [ST13](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/#requisitos-nao-funcionais) <br>
 
 
 ## Referências
