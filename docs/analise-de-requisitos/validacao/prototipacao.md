@@ -43,6 +43,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ITgIr_lkLqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 #### Avaliação 2
 <p align="justify">A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.</p>
 
@@ -53,16 +55,22 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yh5m8iZHO54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 #### Avaliação 3
 <p align="justify">A <i>Tabela 3</i> a seguir informa os dados da terceira avaliação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.</p>
 
 | Participante | Avaliador | Data | Horário | Local |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  NOME  | NOME  | DD/MM/AAAA | HH:MM | LOCAL |
+|  Francisco Heronildo  | Hellen Fernanda  | 24/01/2023 | 17:35 | via Microsoft Teams |
 <figcaption align='center'> Tabela 3: Dados da avaliação 3 (Fonte: Autores, 2022)</figcaption>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m28s7hhH3ms?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
 ## Conclusão
-<p align="justify"></p>
+<p align="justify">Portanto, foram implementadas quatro novas funcionalidades ausentes no aplicativo do Grasshopper. A partir disso e das avaliações, apesar de algumas pequenas dificuldades dos participantes, pode-se concluir que o protótipo foi bem desenvolvido e a usabilidade está conforme, pois não houveram grandes problemas.</p>
 
 ## Referências
 > Prototipagem: como funciona e sua importância para área de TI.  Disponível em: <https://kenzie.com.br/blog/prototipagem/#:~:text=O%20que%20%C3%A9%20prototipagem%3F&text=Prototipagem%20%C3%A9%20a%20etapa%20do,etapa%20de%20aprova%C3%A7%C3%A3o%20e%20valida%C3%A7%C3%A3o.>. Acesso em: 13 jan. 2023.
@@ -76,4 +84,5 @@
 | 1.1 | 16/01/2023 | Subindo protótipo de alta fidelidade no figma | Wildemberg Sales, Hellen Fernanda, Lucas Lopes | João Pedro |
 | 1.2 | 16/01/2023 | Criado conclusão do artefato | Wildemberg Sales, Hellen Fernanda, Lucas Lopes | João Pedro |
 | 1.3 | 23/01/2023 | Documentação da validação | Lucas Lopes, Wildemberg Sales, Hellen Fernanda | João Pedro |
-| 1.4 | 23/01/2023 | Subindo entrevista 1 e 2 | Wildemberg Sales, Lucas Lopes, Hellen Fernanda | João Pedro | 
+| 1.4 | 23/01/2023 | Subindo entrevista 1 e 2 | Wildemberg Sales, Lucas Lopes, Hellen Fernanda | João Pedro |
+| 1.5 | 24/01/2023 | Adição da avaliação 3 e conclusão | Lucas Lopes, Wildemberg Sales, Hellen Fernanda | João Pedro | 
