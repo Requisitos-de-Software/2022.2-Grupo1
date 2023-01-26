@@ -20,57 +20,49 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
 | :--: | :--: | :--: |:--: |
 | RF01 | Eu, como usuário, gostaria de definir meus horários de estudo, para poder se encaixar em meu horário de trabalho |  <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST01</a>|EF01|
 | RF02 | Eu, como usuário, gostaria de realizar tarefas focadas em lógica, para aprender o que nescessito mais rápido | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST02</a> |EF02|
-| RF03 | Eu, como usuário, gostaria de navegar entre as tarefas, para poder buscar as relevantes para mim | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST03</a>|EF03|
+| RF03 | Eu, como usuário, gostaria de navegar entre as tarefas, para poder buscar as relevantes para mim | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST03</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS07</a>|EF03|
 | RF04 | Eu, como usuário, gostaria de realizar tarefas relacionadas a cálculos matemáticos, para poder aplicar em meu dia a dia | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST04</a> |EF04|
-| RF05 | Eu, como usuário, gostaria de logar na aplicação com minha conta da Google, para facilitar meu login | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST06,BS17</a> |EF05|
+| RF05 | Eu, como usuário, gostaria de logar na aplicação com minha conta da Google, para facilitar meu login | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST06,BS17</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS02</a> |EF05|
 | RF06 |Eu, como usuário, gostaria de ter um sistema para treinar meus conhecimentos, para aperfeiçoar meu conhecimento | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST09</a> |EF06|
-| RF07 | Eu, como usuário, gostaria de definir o nível de dificuldade das minhas tarefas, para nivelar com meu conhecimento | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST11</a> |EF08|
-| RF08 | Eu, como usuário, gostaria de acompanhar meu avanço, para ter noção de como estou indo nos estudos | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST13</a> |EF09|
+| RF07 | Eu, como usuário, gostaria de definir o nível de dificuldade das minhas tarefas, para nivelar com meu conhecimento | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST11</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS05</a> |EF08|
+| RF08 | Eu, como usuário, gostaria de acompanhar meu avanço, para ter noção de como estou indo nos estudos | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST13</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS02</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS03</a>|EF09|
 | RF09 | O usuário deve poder personalizar seu ambiente. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS01</a> |EF10|
-| RF10 | O usuário deve poder acessar o seu progresso no jogo. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS02</a> |EF11|
-| RF11 | O usuário deve poder acessar seu nível no jogo. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS03</a> |EF12|
-| RF12 | O usuário deve poder ver suas conquistas. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS04</a> ||
-| RF13 |O usuário deve poder escolher a dificuldade de suas lições. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS05</a> ||
-| RF14 | O usuário deve poder determinar metas diárias a ser comprida. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS06</a> |
-| RF15 | O usuário deve poder escolher a atividade que deseja fazer. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS07</a> |
-| RF16 | O usuário deve poder ver seus erros nas atividades e tentar refaze-las. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS08</a> |
-| RF17 | O usuário deve poder personalizar o mascote. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS09</a> |
-| RF18 | O usuário deve poder adicionar amigos que utilizam a plataforma. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS10</a> |
-| RF19 | O usuário deve poder ver o ranque de usuários com mais frequencia do app. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS11</a> |
-| RF20 | O usuário deve poder criar uma comunidade. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS12</a> |
-| RF21 | O usuário deve poder fazer lições rápidas. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS13</a> |
-| RF22 | O usuário deve poder ver o funcionamento do código. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS14</a> |
-| RF23 | O usuário deve poder fazer atividades de revisão. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS15</a> |
-| RF24 | O usuário deve poder pedir dicas nos exercicios que desejar. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS16</a> |
-| RF26 | Deve ser possível utilizar o app normalmente sem efetuar login | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS01</a> |
-| RF28 | Deve ser possível efetuar login com Google | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS02</a> |
-| RF28 | Deve ser possível visualizar nível e avanço em Painel de Controle | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS03</a> |
-| RF29 | Deve ser possível visualizar selos conquitados em Painel de Controle | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS04</a> |
-| RF30 | Deve ser possível visualizar conceitos aprendidos em Painel de Controle | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS05</a> |
-| RF31 | Deve ser possível visualizar adereços do mascote (chapéu, bolsas, acessórios e calçados) | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS06</a> |
-| RF32 | Deve ser possível mudar adereços do mascote | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS07</a> |
-| RF33 | Deve ser possível visualizar os cursos no menu de navegação | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS08,OBS09</a> |
-| RF35 | Deve ser possível visualizar a trilha/fluxo de atividades de um curso | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS10</a> |
-| RF36 | Deve ser possível resolver as atividades de forma gameficada | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS11</a>	 |
-| RF37 | Deve ser possível compartilhar uma atividade | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS12</a> |
-| RF38 | Deve ser possível criar snippet de código em Playground de Código | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS13</a> |
-| RF39 | Deve ser possível visualizar desafios extras em Prática | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS14</a> |
-| RF40 | Deve ser possível resolver desafios extras | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS15</a> |
-| RF41 | Deve ser possível acessar fórum de suporte do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS16</a> |
-| RF42 | Deve ser possível visualizar e acessar mensagens | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS17</a> |
-| RF43 | Deve ser possível acessar o perfil do Twitter do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS18</a>|
-| RF44 | Deve ser possível ativar e desativar recebimento de notificações | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS19</a> |
-| RF45 | Deve ser possível receber lembretes por notifição push | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS20</a> |
-| RF46 | Deve ser possível receber lembretes por e-mail | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS21</a> |
-| RF47 | Deve ser possível configurar lembretes diários | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS22</a> |
-| RF48 | Deve ser possível enviar feedback ao app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS23</a> |
-| RF49 | Deve ser possível relatar bug do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS24</a> |
-| RF50 | Deve ser possível ativar e desativar efeitos sonoros | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS25</a> |
-| RF51 | Deve ser possível configurar idioma (Português, Espanhol e Inglês) | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS26</a> |
-| RF52 |Deve ser possível redefinir progresso de atividades | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS27</a> |
-| RF53 | Deve ser possível sair da conta, caso esteja logada | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS28</a> |
-| RF54 | Deve ser possível excluir conta, caso esteja logada | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS29</a> |
-| RF55 | Deve ser possível visualizar conquistas (conceitos desbloqueados, teclas JavaScript usadas e sequência de programação do dia) | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS30</a> |
+| RF10 | O usuário deve poder acessar seu nível no jogo. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS03</a> |EF12|
+| RF11 | O usuário deve poder ver suas conquistas. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS04</a> ||
+| RF12 | O usuário deve poder determinar metas diárias a ser comprida. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS06</a> |
+| RF13 | O usuário deve poder ver seus erros nas atividades e tentar refaze-las. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS08</a> |
+| RF14 | O usuário deve poder personalizar o mascote. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS09</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS06</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS07</a> |
+| RF15 | O usuário deve poder adicionar amigos que utilizam a plataforma. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS10</a> |
+| RF16 | O usuário deve poder ver o ranque de usuários com mais frequencia do app. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS11</a> |
+| RF17 | O usuário deve poder criar uma comunidade. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS12</a> |
+| RF18 | O usuário deve poder fazer lições rápidas. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS13</a> |
+| RF19 | O usuário deve poder ver o funcionamento do código. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS14</a> |
+| RF20 | O usuário deve poder fazer atividades de revisão. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS15</a> |
+| RF21 | O usuário deve poder pedir dicas nos exercicios que desejar. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS16</a> |
+| RF22 | Deve ser possível utilizar o app normalmente sem efetuar login | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS01</a> |
+| RF23 | Deve ser possível visualizar selos conquitados em Painel de Controle | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS04</a> |
+| RF24 | Deve ser possível visualizar conceitos aprendidos em Painel de Controle | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS05</a> |
+| RF25 | Deve ser possível visualizar os cursos no menu de navegação | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS08,OBS09</a> |
+| RF26 | Deve ser possível visualizar a trilha/fluxo de atividades de um curso | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS10</a> |
+| RF27 | Deve ser possível resolver as atividades de forma gameficada | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS11</a>	 |
+| RF28 | Deve ser possível compartilhar uma atividade | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS12</a> |
+| RF29 | Deve ser possível criar snippet de código em Playground de Código | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS13</a> |
+| RF30 | Deve ser possível visualizar desafios extras em Prática | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS14</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS15</a> |
+| RF31 | Deve ser possível acessar fórum de suporte do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS16</a> |
+| RF32 | Deve ser possível visualizar e acessar mensagens | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS17</a> |
+| RF33 | Deve ser possível acessar o perfil do Twitter do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS18</a>|
+| RF34 | Deve ser possível ativar e desativar recebimento de notificações | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS19</a> |
+| RF35 | Deve ser possível receber lembretes por notifição push | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS20</a> |
+| RF36 | Deve ser possível receber lembretes por e-mail | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS21</a> |
+| RF37 | Deve ser possível configurar lembretes diários | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS22</a> |
+| RF38 | Deve ser possível enviar feedback ao app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS23</a> |
+| RF39 | Deve ser possível relatar bug do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS24</a> |
+| RF40 | Deve ser possível ativar e desativar efeitos sonoros | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS25</a> |
+| RF41 | Deve ser possível configurar idioma (Português, Espanhol e Inglês) | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS26</a> |
+| RF42 |Deve ser possível redefinir progresso de atividades | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS27</a> |
+| RF43 | Deve ser possível sair da conta, caso esteja logada | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS28</a> |
+| RF44 | Deve ser possível excluir conta, caso esteja logada | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS29</a> |
+| RF45 | Deve ser possível visualizar conquistas (conceitos desbloqueados, teclas JavaScript usadas e sequência de programação do dia) | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS30</a> |
 
 <figcaption align="center">Tabela 1: Requisitos funcionais (Fonte: Autores, 2022)</figcaption>
 
@@ -80,11 +72,10 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
 | RNF01 | Eu, como usuário, gostaria de aprender do zero como programar, para aprender a programar | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST05</a> |
 | RNF02 | Eu, como usuário, gostaria de aprender uma linguagem de programação, para poder me capacitar | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST07</a> |
 | RNF03 | Eu, como usuário, gostaria de ter uma trilha de ensinamentos para seguir, para ter um guia de estudos | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST08</a> |
-| RNF04 | Eu, como usuário, gostaria de um material de apoio, para ter mais conteúdos para estudar |  <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST10</a>|
+| RNF04 | Eu, como usuário, gostaria de um material de apoio, para ter mais conteúdos para estudar |  <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST10</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS18</a>|
 | RNF05 | Eu, como usuário, gostaria de ter um passo a passo para realizar as tarefas, para aprender de forma fácil | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST12</a> |
 | RNF06 | Eu, como usuário, gostaria de aprender sobre as bibliotecas da linguagem, para aumentar o escopo dos meus conhecimentos | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST14</a> |
 | RNF07 | Eu, como usuário, gostaria de ter ensino gratuito, para ser mais acessível as minhas condições | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST15</a> |
-| RNF08 | O sistema deve ter material de apoio em português. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS18</a> |
 | RNF09 | A cada nível que o usuário avançar, as fases devem aumentar a dificuldade. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS19</a> |
 | RNF10 | O sistema deve ter a opção de conectar com Anki. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS20</a> |
 | RNF11 | O sistema deve separar as fases por etapas. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS21</a> |
@@ -243,3 +234,4 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
 | 1.0 | 21/01/2023 | Inicialização do artefato backward from | Wildemberg Sales | Lucas Lopes |
 | 1.1 | 22/01/2023 | Adiconado os requisitos elicitados na matéria | Wildemberg Sales | Lucas Lopes |
 | 1.1 | 22/01/2023 | Adiconado os elos | Caio Vitor Carneiro && João Pedro | Lucas Lopes |
+| 1.3 | 26/01/2023 | Ajustando tabelas de requisitos | Wildermberg Sales | Lucas Lopes |
