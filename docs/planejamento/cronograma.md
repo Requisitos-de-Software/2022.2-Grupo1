@@ -68,42 +68,63 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 | Histórias de Usuário | Caio Vitor, Lucas Lopes | 02/01 | Hellen Fernanda |  03/01   | 13/12 | 03/01 |
 | Backlogs | Wildemberg Sales, Hellen Fernanda | 02/01 | Caio Vitor |  03/01   | 29/12 | 01/01 |
 | NFR Framework | João Pedro, Philipe de Sousa | 02/01 | João Pedro |  03/01   | 29/12| 02/01 |
-| Atas das Reuniões | Lucas Lopes | 02/01 | Philipe de Sousa |  03/01   | - | - |
+| Atas das Reuniões | Lucas Lopes | 02/01 | Philipe de Sousa |  03/01   | 02/01 | 02/01 |
 
 <figcaption align="center">Tabela 5: Atividades específicas referentes à etapa 4.</figcaption>
 
-### Etapa 5 - Análise de Requisitos
+### Etapa 5 - Análise de Requisitos do Lichess
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-| Verificação - Rich Picture | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
-| Verificação - Personas | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
-| Verificação - Storytelling | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
-| Verificação - Observação | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
-| Verificação - Brainstorming | Philipe de Sousa, Wildemberg Sales | 07/01 | Hellen Fernanda |  08/01   | - | 15/01/2023 |
-| Verificação - In or Out | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
-| Verificação - Three Level-Scale | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | - | - |
-| Verificação - Cenários | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | - | - |
-| Verificação - Léxicos | Wildemberg Sales, Philipe de Sousa | 07/01 | Caio Vitor |  08/01   | - | 15/01/2023 |
-| Verificação - Casos de Uso | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | - | 15/01/2023 |
-| Verificação - Especificação Suplementar | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | - | - |
-| Verificação - Histórias de Usuário | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | - | - |
-| Verificação - Backlogs | João Pedro | 07/01 | Lucas Lopes |  08/01   | - | - |
-| Verificação - NFR Framework | João Pedro | 07/01 | Lucas Lopes |  08/01   | - | - |
-| Validação - Prototipação | Todos | 07/01 | Todos |  08/01   | - | - |
-| Atas das Reuniões | Lucas Lopes | 07/01 | Hellen Fernanda |  08/01   | - | - |
+| Verificação - Rich Picture | Lucas Lopes | 07/01 | João Pedro |  08/01   | 23/12/2022 | 23/12/2022 |
+| Verificação - Personas | Lucas Lopes | 07/01 | João Pedro |  08/01   | 25/12/2022 | 25/12/2022 |
+| Verificação - Storytelling | Lucas Lopes | 07/01 | João Pedro |  08/01   | 25/12/2022 | 25/12/2022 |
+| Verificação - Entrevista | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | 03/01/2023 | - |
+| Verificação - Brainstorming | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | 03/01/2023 | 03/01/2023 |
+| Verificação - First Things First | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | 03/01/2023 | 03/01/2023 |
+| Verificação - Moscow | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | 09/01/2023 | 09/01/2023 |
+| Verificação - Cenários | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | 09/01/2023 | 09/01/2023 |
+| Verificação - Léxicos | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | 06/01/2023	 | 06/01/2023	 |
+| Verificação - Casos de Uso | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | 06/01/2023 | 06/01/2023 |
+| Verificação - Especificação Suplementar | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | 08/01/2023 | 08/01/2023 |
+| Verificação - Histórias de Usuário | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | 09/01/2023 | 09/01/2023 |
+| Verificação - Backlogs | João Pedro | 07/01 | Lucas Lopes |  08/01   | 23/12/2022 | 23/12/2022 |
+| Verificação - NFR Framework | João Pedro | 07/01 | Lucas Lopes |  08/01   | 23/12/2022 | 23/12/2022 |
 
 <figcaption align="center">Tabela 6: Atividades específicas referentes à etapa 5.</figcaption>
 
-### Etapa 6 - Pós-Rastreabilidade
+### Etapa 6 - Análise de Requisitos do Grasshoper
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-| Backward-from | Wildemberg, Caio, João | 21/01 | Lucas Lopes |  22/01   | - | - |
-| Forward-from | Lucas, Hellen, Philipe | 21/01 | Hellen Fernanda |  22/01   | - | - |
-| Atas das Reuniões | Lucas Lopes | 21/01 | Caio Vitor |  22/01   | - | - |
+| Verificação - Rich Picture | Lucas Lopes | 16/01 | João Pedro |  15/01   | 26/12/2022 | 26/12/2022 |
+| Verificação - Personas | Lucas Lopes | 16/01 | João Pedro |  15/01   | 26/12/2022 | 26/12/2022 |
+| Verificação - Storytelling | Lucas Lopes | 16/01 | João Pedro |  15/01   | 26/12/2022 | 26/12/2022 |
+| Verificação - Observação | Philipe de Sousa | 16/01 | Hellen Fernanda |  15/01   | 03/01/2023 | 03/01/2023 |
+| Verificação - Brainstorming | Wildemberg Sales | 16/01 | Hellen Fernanda |  15/01   | 03/01/2023 | 03/01/2023	 |
+| Verificação - In or Out | Philipe de Sousa | 16/01 | Hellen Fernanda |  15/01   | 03/01/2023 | 03/01/2023 |
+| Verificação - Three Level-Scale | Caio Vitor | 16/01 | Wildemberg Sales |  15/01   | 16/01/2023 | 16/01/2023 |
+| Verificação - Cenários | Caio Vitor | 16/01 | Wildemberg Sales |  15/01   | 16/01/2023 | 16/01/2023	 |
+| Verificação - Léxicos | Philipe de Sousa | 16/01 | Caio Vitor |  15/01   | 15/01/2023 | 15/01/2023 |
+| Verificação - Casos de Uso | Wildemberg Sales | 16/01 | Caio Vitor |  15/01   | 06/01/2023 | 06/01/2023 |
+| Verificação - Especificação Suplementar | Hellen Fernanda | 16/01 | Philipe de Sousa |  15/01   | 16/01/2023 | 16/01/2023 |
+| Verificação - Histórias de Usuário | Hellen Fernanda | 16/01 | Philipe de Sousa |  15/01   | 16/01/2023 | 16/01/2023 |
+| Verificação - Backlogs | João Pedro | 16/01 | Lucas Lopes |  15/01   | - | - |
+| Verificação - NFR Framework | João Pedro | 16/01 | Lucas Lopes |  15/01   | - | - |
+| Validação - Prototipação |  | 16/01 | Wildemberg Sales, Lucas Lopes, Hellen Fernanda |  15/01   | 13/01/2023 | 24/01/2023 |
+| Atas das Reuniões | Lucas Lopes | 16/01 | Hellen Fernanda |  15/01   | 16/01 | 16/01 |
 
 <figcaption align="center">Tabela 7: Atividades específicas referentes à etapa 6.</figcaption>
+
+### Etapa 7 - Pós-Rastreabilidade
+
+| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
+| Backward-from | Wildemberg, Caio, João | 21/01 | Lucas Lopes |  22/01   | 21/01/2023 | - |
+| Forward-from | Lucas, Hellen, Philipe | 21/01 | Hellen Fernanda |  22/01   | 19/01/2023 | 21/01/2023 |
+| Atas das Reuniões | Lucas Lopes | 21/01 | Caio Vitor |  22/01   | 23/01 | 23/01 |
+
+<figcaption align="center">Tabela 7: Atividades específicas referentes à etapa 7.</figcaption>
 
 ## Histórico de versão
 
@@ -115,6 +136,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 |  1.3   | 24/11/2022 | Ajuste dos números de versão e adicionado tarefa a tabela 2 | Wildemberg Sales | Hellen Fernanda |
 |  1.4   | 26/11/2022 | Ajustando datas de entrega e revisão da etapa 2 | Wildemberg Sales | Hellen Fernanda |
 |  1.5   | 26/11/2022 | Ajustando avaliadores | Wildemberg Sales | Hellen Fernanda |
+|  1.6  | 26/01/2023 | Ajustando cronograma com datas de início e fim dos artefatos | Wildemberg Sales | Hellen Fernanda | 
 
 ## Referências
 
