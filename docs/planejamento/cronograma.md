@@ -21,7 +21,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 1 - Planejamento
 
-|      Tarefa       |            Autor            | Entrega |           Revisor           | Revisão | Início da Realização | Fim da Realização |
+|      Tarefa       |            Autor            | Data de Entrega Planejada |           Data de Revisor           | Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :---------------: | :-------------------------: | :-----: | :-------------------------: | :-----: | :------------------: | :---------------: |
 |  Criação da Wiki  |       Hellen Fernanda       |  11/11  |         Lucas Lopes         |  11/11  |        10/11         |       10/11       |
 |  Página Inicial   |       Hellen Fernanda       |  19/11  |         Caio Vitor          |  19/11  |        10/11         |       17/11       |
@@ -37,7 +37,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 2 - Elicitação de Requisitos
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| Tarefa | Autor | Data de Entrega Planejada | Revisor | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Personas | Wildemberg Sales, Philipe de Sousa | 30/11 | Lucas Lopes |  28/11   | 24/11 | 25/11 |
 | Elicitação - Storytelling | Wildemberg Sales, Philipe de Sousa | 30/11 | Caio Vitor |  28/11   | 26/11 | 26/11 |
@@ -51,7 +51,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 3 - Modelagem de Requisitos
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| Tarefa | Autor | Data de Entrega Planejada | Revisor | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Cenários | Lucas Lopes, Hellen Fernanda | 10/12 | Philipe de Sousa |  11/12   | 08/12 | 11/12 |
 | Léxicos | João Pedro, Wildemberg Sales | 10/12 | Lucas Lopes |  11/12   | 06/12 | 06/12 |
@@ -63,7 +63,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 4 - Modelagem de Requisitos - Ágil
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| Tarefa | Autor | Data de Entrega Planejada | Revisor | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Histórias de Usuário | Caio Vitor, Lucas Lopes | 02/01 | Hellen Fernanda |  03/01   | 13/12 | 03/01 |
 | Backlogs | Wildemberg Sales, Hellen Fernanda | 02/01 | Caio Vitor |  03/01   | 29/12 | 01/01 |
@@ -74,7 +74,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 5 - Análise de Requisitos do Lichess
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| Tarefa | Autor | Data de Entrega Planejada | Revisor | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Verificação - Rich Picture | Lucas Lopes | 07/01 | João Pedro |  08/01   | 23/12/2022 | 23/12/2022 |
 | Verificação - Personas | Lucas Lopes | 07/01 | João Pedro |  08/01   | 25/12/2022 | 25/12/2022 |
@@ -95,7 +95,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 6 - Análise de Requisitos do Grasshoper
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| Tarefa | Autor | Data de Entrega Planejada | Revisor | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Verificação - Rich Picture | Lucas Lopes | 16/01 | João Pedro |  15/01   | 26/12/2022 | 26/12/2022 |
 | Verificação - Personas | Lucas Lopes | 16/01 | João Pedro |  15/01   | 26/12/2022 | 26/12/2022 |
@@ -118,7 +118,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 7 - Pós-Rastreabilidade
 
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+| Tarefa | Autor | Data de Entrega Planejada | Revisor | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Backward-from | Wildemberg, Caio, João | 21/01 | Lucas Lopes |  22/01   | 21/01/2023 | 26/01/2023 |
 | Forward-from | Lucas, Hellen, Philipe | 21/01 | Hellen Fernanda |  22/01   | 19/01/2023 | 21/01/2023 |
