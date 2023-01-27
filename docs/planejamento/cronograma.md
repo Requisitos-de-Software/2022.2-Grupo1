@@ -120,7 +120,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-| Backward-from | Wildemberg, Caio, João | 21/01 | Lucas Lopes |  22/01   | 21/01/2023 | - |
+| Backward-from | Wildemberg, Caio, João | 21/01 | Lucas Lopes |  22/01   | 21/01/2023 | 26/01/2023 |
 | Forward-from | Lucas, Hellen, Philipe | 21/01 | Hellen Fernanda |  22/01   | 19/01/2023 | 21/01/2023 |
 | Atas das Reuniões | Lucas Lopes | 21/01 | Caio Vitor |  22/01   | 23/01 | 23/01 |
 
