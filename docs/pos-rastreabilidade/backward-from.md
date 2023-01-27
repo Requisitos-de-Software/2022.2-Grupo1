@@ -58,15 +58,6 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
 
 <figcaption align="center">Tabela 1: Requisitos funcionais (Fonte: Autores, 2022)</figcaption>
 
-<!-- | RF45 | Deve ser possível visualizar conquistas (conceitos desbloqueados, teclas JavaScript usadas e sequência de programação do dia) | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS30</a> | -->
-<!-- | RF14 | O usuário pode personalizar o mascote. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS09</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS06</a>, <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS07</a> | -->
-<!-- | RF17 | O usuário deve poder criar uma comunidade. | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/">BS12</a> | -->
-<!-- | RF25 | O usuário pode ver e navegar pelos cursos no menu | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS08,OBS09</a> | -->
-<!-- | RF06 |Eu, como usuário, gostaria de ter um sistema para treinar meus conhecimentos, para aperfeiçoar meu conhecimento | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST09</a> |EF06| -->
-<!-- | RF35 | Deve ser possível receber lembretes por notifição push | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS20</a> | -->
-<!-- | RF36 | Deve ser possível receber lembretes por e-mail | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS21</a>, | -->
-<!-- | RF39 | Deve ser possível relatar bug do app | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/">OBS24</a> | -->
-
 ### Requisitos não funcionais:
 | ID | Descrição | Origem |
 | :--: | :--: | :--: |
@@ -94,7 +85,20 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
 
 <figcaption align="center">Tabela 2: Requisitos não funcionais (Fonte: Autores, 2022)</figcaption>
 
-<!-- | RNF02 | Eu, como usuário, gostaria de aprender uma linguagem de programação, para poder me capacitar | <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/">ST07</a> | -->
+## Elos
+
+Os elos desenvolvidos neste artefato fazem referência aos requisitos elicitados listados nas <i>tabelas 1 e 2</i>, seguindo o Meta-Modelo de Toranzo para estruturação de seus elos de rastreabilidade, os quais estão especificados dentro do slide da aula 26 da professora Milene Serrano.
+
+### Elos de rastreabilidade
+
+| Elo | Especificação |
+|:---:| :------------:|
+|Satisfação | classe origem tem dependência de satisfação com a classe destino |
+| Recurso | classe origem tem dependência de recurso com a classe destino |
+| Responsabilidade | registra a participação, responsabilidade e ação de pessoas sobre artefatos |
+| Representação | captura a representação ou modelagem dos requisitos em outras linguagens |
+| Alocado | classe origem está relacionada à classe destino, que representa um subsistema |
+| Agregação | indica “composição” de elementos |
 
 ## Elos Funcionais
 
@@ -118,7 +122,7 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Brainstorm: [BS07](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/);
         * Observação: [OBS08](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
         * Observação: [OBS09](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
-* Elos:  --
+* Elos: 
     * Representação: ST03 representa OBS08
     * Representação: ST03 representa OBS09
     * Agregação: ST03 agrega BS07
@@ -171,9 +175,10 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Observação: [OBS06](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
         * Observação: [OBS07](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
 * Elos:  
-    Agregação: BS09 agrega BS01
-    Agregação: OBS06 agrega BS09
-    Representação: OBS07 representa  BS09
+    * Agregação: BS09 agrega BS01
+    * Agregação: OBS06 agrega BS09
+    * Representação: OBS07 representa  BS09
+    
 ### EF07
 
 * Categoria: Desenvolvimento
@@ -183,7 +188,7 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Brainstorm: [BS04](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/);
         * Observação: [OBS30](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
 * Elos:  
-    Representação: BS04 representa OBS30
+    * Representação: BS04 representa OBS30
 
 ### EF08
 
@@ -194,7 +199,7 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Brainstorm: [BS10](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/);
         * Brainstorm: [BS12](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/);
 * Elos:  
-    Agregação: BS10 agrega BS12
+    * Agregação: BS10 agrega BS12
 
 ### EF09
 
@@ -205,7 +210,8 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Observação: [OBS14](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
         * Observação: [OBS15](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/)
 * Elos:  
-    Representação: OBS14 representa OBS15
+    * Representação: OBS14 representa OBS15
+
 ### EF10
 
 * Categoria: Desenvolvimento
@@ -216,8 +222,8 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Observação: [OBS20](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
         * Observação: [OBS21](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
 * Elos:  
-    Agregação: OBS20 agrega OBS19
-    Agregação: OBS21 agrega OBS19
+    * Agregação: OBS20 agrega OBS19
+    * Agregação: OBS21 agrega OBS19
 ### EF11
 
 * Categoria: Desenvolvimento
@@ -227,7 +233,7 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Observação: [OBS23](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
         * Observação: [OBS24](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/);
 * Elos:  
-    Agregação: OBS24 agrega OBS23
+    * Agregação: OBS24 agrega OBS23
 
 ## Elos não funcionais
 
@@ -240,17 +246,17 @@ Para execução da metodologia, primeiro foi feito duas tabelas, uma contendo os
         * Storytelling: [ST05](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/);
         * Storytelling: [ST07](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/);
 * Elos:  
-    
+    * Agregação: ST05 agrega ST07
 ### ENF02
 
 * Categoria: Desenvolvimento
 
 * Elementos Rastreáveis: 
     * RNF03:
-        * Storytellin: [ST10](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/);
+        * Storytelling: [ST10](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/storytelling/);
         * Brainstorm: [BS18](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/brainstorm/);
 * Elos:  
-
+    * Agregação: BS18 agrega ST10
 
 ## Referências
 > Slide 26, Requisitos, professora Milene e Maurício Serrano
