@@ -78,6 +78,13 @@ nav:
   - Pós-Rastreabilidade:
       - Backward-from: pos-rastreabilidade/backward-from.md
       - Forward-from: pos-rastreabilidade/forward-from.md
+  - Apresentação Final: 
+      - Técnicas utilizadas no projeto: entrega-final/tecnicas-projeto.md
+      - Tabela de ferramentas: entrega-final/tabela-ferramentas.md
+      - Tabela de artefatos: entrega-final/tabela-artefatos.md
+      - Tabela de apresentações: entrega-final/tabela-apresentacoes.md
+      - Tabela de verificação e validação: entrega-final/tabela-vericacao-validacao.md
+      - Resultados Alcançados: entrega-final/resultados-alcancados.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
