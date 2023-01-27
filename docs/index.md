@@ -27,6 +27,14 @@
 <p style="text-align: justify;">Aprenda habilidades importantes de programação para sua nova fase nessa área.</p>
 
 ---
+## Porque o GrassHoper?
+<p align="justify">&emsp;&emsp; Cada membro da equipe instalou e utilizou os aplicativos dessa lista. Depois de uma breve análise foi decidido pela equipe que o Grasshopper seria o aplicativo escolhido pelos seguintes aspectos:</p>
+
+   - O aplicativo possui diversas funcionalidades, com interface intuitiva.
+   - Tem um escopo que não é tão grande.
+   - Não tem documentação já existente.
+   - é Fácil de usar
+   - Por estar ligado a programação conseguimos encontrar vários usuários na faculdade de Engenharia de Software
 
 ## Contribuidores
 
