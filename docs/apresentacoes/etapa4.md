@@ -12,6 +12,16 @@ Esta página é destinada à apresentação da Etapa 4 do projeto de Requisitos 
 </ol>
 
 ## Apresentação
+
+### Presentes
+<ol>
+    <li>Lucas Lopes</li>
+    <li>Wildemberg Sales</li>
+    <li>Philipe de Sousa</li>
+    <li>João Pedro</li>
+</ol>
+
+### Gravação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ByPfETJrko?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de versão
