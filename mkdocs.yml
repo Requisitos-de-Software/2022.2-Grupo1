@@ -78,7 +78,6 @@ nav:
   - Pós-Rastreabilidade:
       - Backward-from: pos-rastreabilidade/backward-from.md
       - Forward-from: pos-rastreabilidade/forward-from.md
-  - Apresentação Final: entrega-final/tecnicas-projeto.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
@@ -92,3 +91,7 @@ nav:
       - Etapa 5 - 09/01/2023: apresentacoes/etapa5.md
       - Etapa 6 - 16/01/2023: apresentacoes/etapa6.md
       - Etapa 7 - 23/01/2023: apresentacoes/etapa7.md
+      - Etapa Final - 01/02/2023: entrega-final/etapafinal.md
+  - Apresentação Final:
+      - Entrega Final: entrega-final/tecnicas-projeto.md
+      - Etapa Final - 01/02/2023: entrega-final/etapafinal.md
