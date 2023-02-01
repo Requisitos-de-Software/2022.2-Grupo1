@@ -69,6 +69,22 @@ Todas as fases, etapas, e artefatos construídos e executados dentro do projeto 
 
 <figcaption align="center">Tabela 1: Escopo do projeto (Fonte: Wildemberg Sales, 2023) </figcaption>
 
+## Apresentações das etapas
+
+Na <i>Tabela 2</i> é apresentados as entregas das etapas do projeto, e os integrantes que apresentaram as etapas, dentro de cada artefato se encontra a data, e a gravação de cada etapa.
+
+| Etapa | Integrantes |
+| :---: | :---------: |
+| [Etapa 1](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa1/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Etapa 2](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa2/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Etapa 3](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa3/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Etapa 4](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa4/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, João Pedro |
+| [Etapa 5](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa5/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Etapa 6](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa6/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Etapa 7](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa7/) | Lucas Lopes, Wildemberg Sales, Hellen Fernanda |
+
+<figcaption align="center">Tabela 2: Etapas e integrantes (Fonte: Wildemberg Sales, 2023) </figcaption>
+
 ## Objetivos Alcaçados
 <p align="justify">Ao executar o projeto da disciplica, os autores obtiveram os conhecimentos e técnicas de cada tópico da Engenharia de Requisitos, alcançando os objetivos de executar engenharia reversa dentro do aplicativo Grasshoper, e portanto adquirindo o aprendizado sobre a área de Requisitos de Software na Engenharia de Software. </p>
 
