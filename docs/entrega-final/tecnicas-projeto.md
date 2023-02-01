@@ -75,13 +75,13 @@ Na <i>Tabela 2</i> é apresentados as entregas das etapas do projeto, e os integ
 
 | Etapa | Integrantes |
 | :---: | :---------: |
-| [Etapa 1](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa1/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
-| [Etapa 2](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa2/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
-| [Etapa 3](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa3/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
-| [Etapa 4](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa4/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, João Pedro |
-| [Etapa 5](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa5/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
-| [Etapa 6](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa6/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
-| [Etapa 7](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa7/) | Lucas Lopes, Wildemberg Sales, Hellen Fernanda |
+| [Planejamento](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa1/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Elicitação de requisitos](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa2/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Modelagem de requisitos](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa3/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Modelagem de requisitos - Ágil](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa4/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, João Pedro |
+| [Análise de requisitos](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa5/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Pós-Rastreabilidade](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa6/) | Lucas Lopes, Wildemberg Sales, Philipe de Sousa, Caio Vitor, João Pedro, Hellen Fernanda |
+| [Conclusão do projeto](https://requisitos-de-software.github.io/2022.2-Grasshopper/apresentacoes/etapa7/) | Lucas Lopes, Wildemberg Sales, Hellen Fernanda |
 
 <figcaption align="center">Tabela 2: Etapas e integrantes (Fonte: Wildemberg Sales, 2023) </figcaption>
 
