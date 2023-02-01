@@ -21,7 +21,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 ### Etapa 1 - Planejamento
 
-|      Tarefa       |            Autor            | Data de Entrega Planejada |           Data de Revisor           | Revisão | Data de Início da Realização | Data de Fim da Realização |
+|      Tarefa       |            Autor            | Data de Entrega Planejada |           Revisor           | Data de Revisão | Data de Início da Realização | Data de Fim da Realização |
 | :---------------: | :-------------------------: | :-----: | :-------------------------: | :-----: | :------------------: | :---------------: |
 |  Criação da Wiki  |       Hellen Fernanda       |  11/11  |         Lucas Lopes         |  11/11  |        10/11         |       10/11       |
 |  Página Inicial   |       Hellen Fernanda       |  19/11  |         Caio Vitor          |  19/11  |        10/11         |       17/11       |
