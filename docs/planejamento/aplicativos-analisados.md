@@ -76,7 +76,7 @@
    **Data:** 4 de novembro de 2022 </br>
    **Versão:** 1.0
 
-
+## 2. Conclusão  
 <p align="justify">&emsp;&emsp; Cada membro da equipe instalou e utilizou os aplicativos dessa lista. Depois de uma breve análise foi decidido pela equipe que o Grasshopper seria o aplicativo escolhido pelos seguintes aspectos:</p>
 
    - O aplicativo possui diversas funcionalidades, com interface intuitiva.
@@ -84,7 +84,7 @@
    - Não tem documentação já existente.
    
    
-## 2. Referências
+## 3. Referências
 
 > - Muambator. Acesso em: 15 de novembro de 2022. Disponível em: https://play.google.com/store/apps/details?id=br.com.muambator.android&hl=pt_BR&gl=US
 > - Memo - Estude Programação. Acesso em: 15 novembro de 2022. Disponível em: https://apps.apple.com/br/app/memo-estude-programa%C3%A7%C3%A3o/id1565438866
@@ -93,7 +93,7 @@
 > - Grasshopper. Acesso em: 15 de novembro de 2022. Disponível em: https://play.google.com/store/search?q=grassshoper&c=apps&hl=pt_BR&gl=US
 
 
-## 3. Histórico de Versão
+## 4. Histórico de Versão
 
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |

@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-<p align="justify">O objetivo da Especificação Suplementar é capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a modelagem de [Casos de Uso](/casos-de-uso.md) define todos os requisitos do sistema.</p>
+<p align="justify">O objetivo da Especificação Suplementar é capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a modelagem de <a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/casos-de-uso/">Casos de Uso</a> define todos os requisitos do sistema.</p>
 
 <p align="justify">Esta Especificação Suplementar se aplica ao aplicativo GrassHoper disponibilizado na Play Store. Ademais, especificação cobre todos os requisitos não funcionais do sistema, como os requisitos de usabilidade, confiabilidade, desempenho e suportabilidade.</p>
 
