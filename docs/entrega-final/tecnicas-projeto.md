@@ -15,7 +15,7 @@ Todas as fases, etapas, e artefatos construídos e executados dentro do projeto 
 
 | Fase | Artefato | Técnicas | Autores | Revisores |Ferramentas|
 | :--: | :----: | :--: | :-------: | :---: | :---: |
-| Planejamento | [Reuniões](https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/reunioes/) | Heatmap | Wildemberg Sales | Hellen Fernanda | Excel, Visual Studio Code |
+| Planejamento | [Reuniões](https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/reunioes/) | Heatmap, Questionário | Wildemberg Sales | Hellen Fernanda | Excel, Visual Studio Code |
 | Planejamento | [Metodologia](https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/metodologia/) | - | Wildemberg Sales | Hellen Fernanda, João Pedro | Visual Studio Code |
 | Planejamento | [Ferramentas](https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/ferramentas/) | - | João Pedro Alves, Wildemberg Sales | Wildemberg Sales, João Pedro Alves | Visual Studio Code |
 | Planejamento | [Cronograma](https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/cronograma/) | - | Wildemberg Sales, Lucas Lopes | Hellen Fernanda | Visual Studio Code |
