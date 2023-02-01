@@ -82,7 +82,7 @@
    - O aplicativo possui diversas funcionalidades, com interface intuitiva.
    - Tem um escopo que não é tão grande.
    - Não tem documentação já existente.
-   
+   - Possui uma relevante pesquisa no Google Trends.
    
 ## 3. Referências
 
