@@ -17,6 +17,18 @@ Esta página é destinada à apresentação da Etapa 2 do projeto de Requisitos 
 </ol>
 
 ## Apresentação
+
+### Presentes
+<ol>
+    <li>Lucas Lopes</li>
+    <li>Wildemberg Sales</li>
+    <li>Philipe de Sousa</li>
+    <li>Caio Vitor</li>
+    <li>João Pedro</li>
+    <li>Hellen Fernanda</li>
+</ol>
+
+### Gravação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EjsZ3jJqVZA?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Histórico de versão
