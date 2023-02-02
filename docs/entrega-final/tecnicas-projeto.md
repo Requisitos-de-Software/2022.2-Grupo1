@@ -85,6 +85,29 @@ Na <i>Tabela 2</i> é apresentados as entregas das etapas do projeto, e os integ
 
 <figcaption align="center">Tabela 2: Etapas e integrantes (Fonte: Wildemberg Sales, 2023) </figcaption>
 
+## Facilidades e Dificuldades do Projeto
+
+### Caio Vitor
+* Facilidades: O projeto foi de legal de fazer pois complementou o que eu tinha aprendido em mds, e isso foi muito importante pois consegui criar uma base mais forte ainda
+* Dificuldades: Tive algumas dificuldades no projeto pois precisava dividir meu tempo em várias disciplinas e algumas entregas ficaram bem apertadas.
+
+### Hellen Fernanda
+* Facilidades: foi tranquilo achar conteudos relacionados e artefatos já desenvolvido, dando uma base sólida na hora da produção dos artefatos do nosso grupo. Além disso, o grupo foi bastante compreensivo e não houve atritos na maioria das reuniões.
+* Dificuldades: minha maior dificuldade foi consiliar o tempo necessário para produção do trabalho e das gravações com meu dia a dia.
+
+### João Pedro
+* Facilidades: Uma grande facilidade que eu tive neste projeto acredito que foi acessar trabalhos antigos e se basear na metodologia abordada por eles e ter um ponto de partida com mas informações e exemplos.
+* Dificuldades: Um pouco de dificuldade que eu tive foi estudar as metodologias ensinadas na disciplina devido a elas nao serem tao reconhecidas assim, assim como elaoração de certos artefatos pois nao sabia muito bem o quao correto ele tava e como deveria ser feito sua refatoração se necessário.
+
+### Lucas Lopes
+* Facilidades: Neste processo foi prático entender os artefatos o que cada um significava e o porquê de estarmos o desenvolvendo. Tive bastante facilidade em entender a estrutura do projeto e suas entregas, o que me ajudou a manter um processo contínuo de desenvolvimento.
+* Dificuldades: Acredito que minha maior dificuldade foi conciliar as outras disciplinas com as constantes entregas deste projeto, o que tornou o processo um pouc
+
+
+### Wildemberg Sales
+* Facilidades: O projeto correu de forma tranquila, sem problemas para realizar os artefatos, conseguimos entregar sempre nas datas previstas, conseguimos corrigir rapidamente nossos artefatos quando apresentavam problemas;
+* Dificuldades: Obtive dificuldades na hora de realizar a verificação dos artefatos que me foram definidos por não saber o quão bom estava minha verificação.
+
 ## Objetivos Alcaçados
 <p align="justify">Ao executar o projeto da disciplica, os autores obtiveram os conhecimentos e técnicas de cada tópico da Engenharia de Requisitos, alcançando os objetivos de executar engenharia reversa dentro do aplicativo Grasshoper, e portanto adquirindo o aprendizado sobre a área de Requisitos de Software na Engenharia de Software. </p>
 
@@ -93,3 +116,4 @@ Na <i>Tabela 2</i> é apresentados as entregas das etapas do projeto, e os integ
 | Versão |  Data  |    Descrição    |    Autor   |     Revisor     |
 | :----: | :----: | :-------------: | :--------: | :-------------: |
 | 1.0 | 31/01/2023 | Criado o artefato de entrega final do projeto | Wildemberg Sales, Caio Vitor, Philipe de Sousa | Lucas Lopes |
+| 1.1 | 02/02/2023 | Adicionando facilidades e dificuldades | Wildemberg Sales | Lucas Lopes |
